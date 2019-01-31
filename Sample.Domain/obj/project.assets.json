@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Domain\\Sample.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Domain\\Sample.Domain.csproj",
       "projectName": "Sample.Domain",
-      "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Domain\\Sample.Domain.csproj",
+      "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Domain\\Sample.Domain.csproj",
       "packagesPath": "C:\\Users\\dankw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Domain\\obj\\",
+      "outputPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

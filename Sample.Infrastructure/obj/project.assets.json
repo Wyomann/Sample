@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Infrastructure\\Sample.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Infrastructure\\Sample.Infrastructure.csproj",
       "projectName": "Sample.Infrastructure",
-      "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Infrastructure\\Sample.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Infrastructure\\Sample.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\dankw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Domain\\Sample.Domain.csproj": {
-              "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample.Domain\\Sample.Domain.csproj"
+            "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Domain\\Sample.Domain.csproj": {
+              "projectPath": "C:\\Users\\dankw\\source\\repos\\TBYTest\\Sample\\Sample.Domain\\Sample.Domain.csproj"
             }
           }
         }

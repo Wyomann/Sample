@@ -1,0 +1,9 @@
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.deps.json
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.dll
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.pdb
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.AssemblyInfoInputs.cache
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.AssemblyInfo.cs
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.dll
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.pdb
+C:\Users\dankw\source\repos\TBYTest\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.csprojAssemblyReference.cache
